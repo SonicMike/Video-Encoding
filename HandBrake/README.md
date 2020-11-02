@@ -53,18 +53,18 @@ In Extra Options enter
 Use "keyint=#".
 Replace the # symbol with your value. For the value get the frames per second value and multiply it by 2 for a key frame every 2 seconds.  Multiply by 4 for a key frame every 4 seconds.  The keyframe frequency has be be less than one every 6 seconds to bypass transcoding.
 
-![HandBrake_SaG15XfZA0.png](._resources/02a72dd742ae46d79cd30874fa5349f0.png)
+![HandBrake_SaG15XfZA0.png](./_resources/02a72dd742ae46d79cd30874fa5349f0.png)
 
 
 ### Tune tab
 For screencast I sometimes try "Still Image".  The quality is a little better with that tuning.  Its not that significant however.
 	
-![HandBrake_OsZYADhebf.png](._resources/8f1c88b6ad1641908bdcf144a22b6d3e.png)
+![HandBrake_OsZYADhebf.png](./_resources/8f1c88b6ad1641908bdcf144a22b6d3e.png)
 
 
 ### Audio tab
 Set the bitrate and the mixdown mode (stereo or mono).
-![HandBrake_nN0HJSoGvV.png](._resources/7133685f05604056837ff962f5876b24.png)
+![HandBrake_nN0HJSoGvV.png](./_resources/7133685f05604056837ff962f5876b24.png)
 
 ### Subtitle tab
 Skip.
